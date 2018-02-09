@@ -3,6 +3,8 @@
 
 # RQL without FIQL support
 
+This fork removes the FIQL syntax support from the source project
+
 Resource Query Language (RQL) is a query language designed for use in URIs with object
 style data structures. This project includes the RQL specification and
 provides a JavaScript implementation of query
